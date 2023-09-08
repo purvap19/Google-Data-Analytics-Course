@@ -2,7 +2,9 @@
 
 <h3>Skills gained in this course:</h3>
 <ul>SQL</ul>
-<ul>R</ul>
-<ul>Tableau</ul>
-<ul>Microsoft Excel/Google Sheets</ul>
+<ul>R Programming</ul>
+<ul>Microsoft Excel</ul>
+<ul>Google Sheets</ul>
+<ul>Data Visualization</ul>
+<ul> Data Cleansing</ul>
 
